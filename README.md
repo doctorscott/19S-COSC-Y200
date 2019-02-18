@@ -1,7 +1,9 @@
 # 19S-COSC-Y200 (Spring 2019)
 ## Assignment Submission Details
+### File Names
+All files MUST be named correctly as the assignment dictates. This includes spacing (don't use any!), capitalization, and the correct extensions. Major points will be taken off for incorrect file names and/or missing files. 
 ### Header Information
-Please include all requested documents (HTML and/or CSS files) for this assignment here. Each file MUST include a comment area just before the body or at the top of the page. The comment area must include the following three lines. All assignments for the remainder of this course must contain a variation of the following three lines. You will need to fill in the bracketed sections with the appropriate information.
+Please include all requested documents (HTML and/or CSS files) for this assignment in this repository. Each file MUST include a comment area just before the body or at the top of the page. The comment area must include the following three lines. All assignments for the remainder of this course must contain a variation of the following three lines. You will need to fill in the bracketed sections with the appropriate information.
 ```
 Project Name: [Title of the Project]
 Author: [Your Full Name]
