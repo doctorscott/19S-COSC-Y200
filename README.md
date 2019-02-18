@@ -9,5 +9,5 @@ Date Last Modified: [Date Modified]
 ```
 ### Proper HTML tags
 Each HTML file must utilize the proper HTML tags. You can use previous assignments as templates. Your pages must include (at the very least) the tags for DOCTYPE, html, head, title, body, and meta charset.  All open tags must be closed properly and in the correct order/location.
-### Sumbitting for Evaluation and Grading
+### Submitting for Evaluation and Grading
 Using github desktop, submit your files for review by committing and 
