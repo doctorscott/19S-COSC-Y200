@@ -1,4 +1,4 @@
-# 19S-COSC-Y200 (Spring 2019)
+# COSC-Y200
 ## Assignment Submission Details
 ### File Names
 All files MUST be named correctly as the assignment dictates. This includes spacing (don't use any!), capitalization, and the correct extensions. Major points will be taken off for incorrect file names and/or missing files. 
