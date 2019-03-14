@@ -12,6 +12,6 @@ Date Last Modified: [Date Modified]
 ### Proper HTML tags
 Each HTML file must utilize the proper HTML tags. You can use previous assignments as templates. Your pages must include (at the very least) the tags for DOCTYPE, html, head, title, body, and meta charset.  All open tags must be closed properly and in the correct order/location.
 ### Submitting for Evaluation and Grading
-Using github desktop, submit your files for review by **committing** and **pushing** your changes. You will then need to create a **pull** request to the branch for this assignment. Finally, do not forget to put the pull request info into your Blackboard submission so that I can provide feedback.
+Using github desktop, submit your files for review by **committing** and **pushing** your changes. You will then need to create a **pull request** to the branch for this assignment. 
 
-I will only look at the latest versions of your files. I will provide brief feedback via your git pull and a formal grade on blackboard.
+I will only look at the latest versions of your files (your last pull request). I will provide brief feedback via your git pull and a formal grade on blackboard.
